@@ -32,7 +32,7 @@ ________________________________________
 1.	Clone the repository
 Git clone https://github.com/rutuparna25boe10061-ops
      2. Navigate to the project folder
-    VITYARTHI CS PROJECT
+    VITYARTHI-CS-PROJECT
     3. Run the Python file
        Make sure Python is installed on your system. Install Tkinter if needed (usually preinstalled):
        pip install tk
