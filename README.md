@@ -34,8 +34,8 @@ Git clone https://github.com/rutuparna25boe10061-ops
      2. Navigate to the project folder
        cd calculator
     3. Run the Python file
-       code.py
-      Make sure Python is installed on your system. Install Tkinter if         needed (usually preinstalled):
+       VITYARTHI CS PROJECT
+      Make sure Python is installed on your system. Install Tkinter if needed (usually preinstalled):
        pip install tk
 ________________________________________
 🧪 Instructions for Testing
