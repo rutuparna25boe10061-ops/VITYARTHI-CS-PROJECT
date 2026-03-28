@@ -30,7 +30,7 @@ ________________________________________
 ________________________________________
 💻 Steps to Install & Run the Project
 1.	Clone the repository
-Git clone https://github.com/rutuparna25boe10061-ops/calculator.git
+Git clone https://github.com/rutuparna25boe10061-ops
      2. Navigate to the project folder
        cd calculator
     3. Run the Python file
